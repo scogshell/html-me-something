@@ -1,5 +1,11 @@
-header { color: red; size: 24px color: AF7817; }
+html {background-color: 824C00;}
 
-p { text-align: center;}
+header { color: #AF7817; size: 24px; }
+
+p { text-align: center; size: 16; color: 824C00;}
 
 h1 {text-align: center; font-weight: bold; color: #4B0082 }
+
+h2 {text-align: center; font-weight: bold; color: #4B0082 }
+
+h3 {text-align: center; font-weight: bold; color: #4B0082 }
